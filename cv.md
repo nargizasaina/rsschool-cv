@@ -27,3 +27,32 @@ I believe that with my perseverance and desire to learn I will become a proficie
 * WebStorm, VS Code
 * Git, Jira
 * Photoshop, Figma
+
+### Code example:
+From CODEWARS: *Multiply:*
+```
+function multiply(a, b){
+  return a * b;
+}
+```
+
+From CODEWARS: *Can we divide it?:*
+```
+function isDivideBy(number, a, b) {
+  if (number % a === 0 && number % b === 0) {
+    return true;
+  } else {
+    return false;
+  }
+}
+```
+
+### Courses:
+* Attractor School, "JavaScript", Bishkek, Kyrgyzstan (in progress)
+* RS Schools Course "JavaScript/Front-end. Stage 0" (in progress)
+
+### Languages:
+* English - B2 (Upper-Intermediate) acc to EPAM training center
+* Russian - Fluent
+* Turkish - Intermediate
+* Kyrgyz - Native
