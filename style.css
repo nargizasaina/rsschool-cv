@@ -23,6 +23,8 @@ body {
 
 .header{
     height: 50px;
+    position: relative;
+    
 }
 
 .header-nav{
@@ -36,7 +38,8 @@ body {
 
 .header-nav-list {
     list-style: none;
-    margin: 10px 0;
+    max-width: 1020px;
+    margin: 10px auto;
     padding: 0 60px;
     display: flex;
     justify-content: space-between;
